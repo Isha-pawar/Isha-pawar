@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Isha-pawar
-- 👀 I’m interested in web designing learning
-- 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to create projects on web development..
-- 📫 How to reach me ...
+Hi there! 👋 I'm [Your Name]
 
-<!---
-Isha-pawar/Isha-pawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently pursuing a diploma in Computer Engineering, passionate about leveraging technology to solve real-world problems. Here's a bit about me:
+
+- 🎓 **Education**: Studying Computer engineering  at Cusrow Wadia Institute of technology pune 
+- 💻 **Skills**: Basic of C, Oops , Data Structures and SQL. Web designing using wordpress 
+- 🌟 **Interests**: Interested in Web development, app development,And UI and UX designing 
+- 📚 **Learning**: Always eager to learn new technologies and improve my skills
+- 🌐 **GitHub Goals**: I'm here to collaborate on projects, contribute to open-source, and build a portfolio of projects that reflect my interests and expertise.
+
+Feel free to connect with me here or on [LinkedIn/other relevant platform]!
+
+---
