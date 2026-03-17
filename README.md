@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Your Name]
+Hi there! 👋 I'm Isha
 
 I'm currently pursuing a diploma in Computer Engineering, passionate about leveraging technology to solve real-world problems. Here's a bit about me:
 
