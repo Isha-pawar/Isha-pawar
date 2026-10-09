@@ -10,10 +10,10 @@ I'm passionate about using technology to solve real-world problems and continuou
 ---
 
 ## 💻 Skills
-- Programming: C, Java (Basics), OOP Concepts  
-- Data Structures & Algorithms (Basics)  
-- Database: SQL  
-- Web Development: HTML, CSS, WordPress  
+- Programming: C++, Java, OOP Concepts  
+- Data Structures & Algorithms   
+- Database: SQL, MongoDB 
+- Web Development: HTML, CSS, WordPress, React, Tailwind CSS 
 
 ---
 
